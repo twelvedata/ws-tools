@@ -1,0 +1,5 @@
+# override config.py options here
+
+MONITORING_SYMBOLS = 'AAPL,AMZN,TSLA,GLE,BTC/USD,BTC/ETH,EUR/USD'
+
+APIKEY = '12345'
